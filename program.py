@@ -1,7 +1,7 @@
 import math
 
 def main():
-    print('hello ')
+    print('Hello, ')
     print(math.ceil(54.9))
 
 main()
